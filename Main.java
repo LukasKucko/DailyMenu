@@ -95,8 +95,7 @@ public class Main {
     bravcove.add(" 120g Bravčové rezníky v syrovom cestíčku,zemiakové pyre (1,3,7)");
     bravcove.add(" 120g Hovädzie stehno na hrášku,tarhoňa (1,3)");
     bravcove.add(" 120g Bravčová fašírka s kelovo-zemiakovým prívarkom (1,3,7)");
-    bravcove.add(
-        " 120g Bravčový steak,volské oko,slaninka,omáčka zo zeleného korenia,ryža (1,3,7)");
+    bravcove.add(" 120g Bravčový steak,volské oko,slaninka,omáčka zo zeleného korenia,ryža (1,3,7)");
     bravcove.add(" 120g Pečená bravčová krkovička,biela dusená kapusta,parená knedľa (1,3,7,12)");
     bravcove.add(" 120g Plátky z bravčového karé na šampiňónoch,ryža (7)");
     bravcove.add(" 120g Bravčové stehno ,,Hamburg,, (šunka,uhorka,smotana),kysnutá knedľa (1,3,7)");
@@ -120,8 +119,7 @@ public class Main {
     drahe.add(" 150g Rybie kúsky v pivnom cestíčku,batátové hranolky,tatárska omáčka (1,3,4,7)");
     drahe.add(" 150g Burger s trhaným kačacím mäsom,coleslaw šalát (0)");
     drahe.add(" 150g Vysmážané rybie kúskyv parmezán. cestíčku,šalát,pita chlieb,dressing (1,3,7)");
-    drahe.add(
-        " 150g Hovädzia sviečkovica s udon rezancami a zeleninou,pečená cibuľka,arašídy (1,5,6,11)");
+    drahe.add(" 150g Hovädzia sviečkovica s udon rezancami a zeleninou,pečená cibuľka,arašídy (1,5,6,11)");
     drahe.add(" 150g Treska pečená na masle,zwmiakové pyré,špenátová omáčka (4,7)");
     drahe.add(" 150 Pečená panenka so slivkovou omáčkou,zemiakové krokety (1,3)");
 
